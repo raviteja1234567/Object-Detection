@@ -1,0 +1,2 @@
+# Deep Learning-Based Object Detection
+The project focuses on using deep learning techniques to detect aeroplanes in images using OpenCV and TensorFlow. The dataset was annotated using Makesense.ai, and the models used were pre-trained VGG16 and MobileNetV2 with additional layers, evaluated using Intersection over Union, LabelBinarizer, and finally, the best model was used to detect multiple objects in new data.
